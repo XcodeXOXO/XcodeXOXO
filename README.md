@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Computer Science & Engineering | AI · Blockchain · DevOps
+### Computer Science & Engineering | AI · Blockchain · DevOps
 
 I build high-performance, decentralized systems and intelligent automation tools designed to close real-world efficiency gaps. My work sits at the intersection of robust DevOps architecture and autonomous AI agents.
 
