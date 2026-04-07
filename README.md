@@ -32,9 +32,10 @@ I specialize in building high-performance, decentralized systems and intelligent
 * **Infrastructure:** OCI DevOps Professional, Kubernetes orchestration, and CI/CD optimization.
 
 ### 💻 Tech Stack
-* **Languages:** Python, C++, Solidity, SQL
-* **DevOps/Cloud:** OCI, Kubernetes, Docker, Git, CI/CD
-* **Blockchain:** Hyperledger Fabric, Polygon
+* **Languages:** C++, Solidity, SQL, Bash, Python, HTML/CSS 
+* **DevOps/Cloud:** OCI, Kubernetes, Docker, Git, CI/CD, Jenkins, teraform, ngrok
+* **Blockchain:** Hyperledger Fabric, Polygon, Ethereum, Web3.js, OpenGSN(Gassless Network), Ganache/Truffle
+* **AI/ML** Langchain, n8n, Pandas & NumPy, PyTorch, XGBoost
 
 ---
 
