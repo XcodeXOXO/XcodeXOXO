@@ -14,35 +14,36 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Computer Science & Engineering | AI · Blockchain · DevOps
 
-I build high-performance, decentralized systems and intelligent automation tools designed to close real-world efficiency gaps. My work sits at the intersection of robust DevOps architecture and autonomous AI agents.
+**Computer Science and Engineering | AI · Blockchain · DevOps**
 
-### Performance Metrics
+I specialize in building high-performance, decentralized systems and intelligent automation. My focus is on closing real-world efficiency gaps by integrating robust DevOps architecture with autonomous AI agents.
 
-Automation: Engineered autonomous PR review agents and recursive documentation engines achieving 95% structural accuracy.
+---
 
-Efficiency: Reduced manual operational effort by 50% for industrial clients through custom automation.
+### 🚀 Impact & Metrics
+* **Autonomous Engineering:** Developed PR review agents and recursive documentation engines achieving **95% structural accuracy**.
+* **Operational Efficiency:** Reduced manual operational effort by **50%** for industrial clients through targeted automation.
+* **Deployment Speed:** Accelerated deployment cycles by **60%** using Kubernetes and OCI DevOps practices.
 
-Deployment: Accelerated deployment cycles by 60% utilizing Kubernetes and OCI DevOps practices.
+### 🛠 Technical Specialization
+* **Artificial Intelligence:** Autonomous agents, recursive extraction engines, and applied data science.
+* **Blockchain:** Decentralized system design, Solidity, and secure digital asset custody.
+* **Infrastructure:** OCI DevOps Professional, Kubernetes orchestration, and CI/CD optimization.
 
-Technical Focus
-AI & ML: Autonomous agents, recursive extraction engines, and currently expanding into Applied Data Science.
+### 💻 Tech Stack
+* **Languages:** Python, C++, Solidity, SQL
+* **DevOps/Cloud:** OCI, Kubernetes, Docker, Git, CI/CD
+* **Blockchain:** Hyperledger Fabric, Polygon
 
-Blockchain: Decentralized systems, Solidity development, and secure asset custody.
+---
 
-DevOps: OCI DevOps Professional, Kubernetes orchestration, and CI/CD optimization.
+### 🔗 Connectivity
+* **Portfolio:** [anand-cmds.vercel.app](https://profile-p2tvpm93v-anand-cmds-projects.vercel.app/)
+* **LinkedIn:** [anand-subrahmanian](https://www.linkedin.com/in/anand-subrahmanian-b91503255)
+* **Email:** ganeshanand126@gmail.com
+* **Phone:** +91 99495 28201
 
-### Current Stack
-Languages: Python, C++, Solidity, SQL.
+---
 
-Tools & Platforms: Kubernetes, Docker, Hyperledger Fabric, Polygon, OCI.
-
-Connect with me
-Portfolio: profile-anand-cmds.vercel.app
-
-LinkedIn: linkedin.com/in/anand-subrahmanian
-
-Phone: +91 99495 28201
-
-Email: ganeshanand126@gmail.com
+*“Engineering decentralized systems to solve real-world efficiency gaps through intelligent automation.”*
