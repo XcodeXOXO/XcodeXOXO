@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 
 I build high-performance, decentralized systems and intelligent automation tools designed to close real-world efficiency gaps. My work sits at the intersection of robust DevOps architecture and autonomous AI agents.
 
-Performance Metrics
+### Performance Metrics
+
 Automation: Engineered autonomous PR review agents and recursive documentation engines achieving 95% structural accuracy.
 
 Efficiency: Reduced manual operational effort by 50% for industrial clients through custom automation.
@@ -32,7 +33,7 @@ Blockchain: Decentralized systems, Solidity development, and secure asset custod
 
 DevOps: OCI DevOps Professional, Kubernetes orchestration, and CI/CD optimization.
 
-Current Stack
+### Current Stack
 Languages: Python, C++, Solidity, SQL.
 
 Tools & Platforms: Kubernetes, Docker, Hyperledger Fabric, Polygon, OCI.
